@@ -1,5 +1,12 @@
 // Deque class as Model for MVC pattern
 
+/*
+A deque class implemented on an array of pointers to the arrays of constant size
+Allows to push elements both at front and back in O(1)
+
+Also an iterator class is implemented
+*/
+
 #pragma once
 #undef UNICODE
 #define _SCL_SECURE_NO_WARNINGS
